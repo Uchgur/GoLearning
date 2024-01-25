@@ -1,8 +1,8 @@
-package main
+package exerc
 
 import "fmt"
 
-func main() {
+func ZeroVal() {
 	//Two ways of creating variable. Second is more explicit and readable than the first one
 	a := 42
 	var b int = 31

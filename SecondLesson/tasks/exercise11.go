@@ -1,8 +1,8 @@
-package main
+package exerc
 
 import "fmt"
 
-func main() {
+func Ex11() {
 	str := "Hello"
 	num := 0
 	var flNum float64 = 1.11

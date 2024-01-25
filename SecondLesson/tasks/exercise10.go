@@ -1,8 +1,8 @@
-package main
+package exerc
 
 import "fmt"
 
-func main() {
+func Ex10() {
 	var a int
 	var b int = 2
 	c := 3

@@ -1,8 +1,8 @@
-package main
+package exerc
 
 import "fmt"
 
-func main() {
+func TypeCon() {
 	y := 42
 	z := 42.0
 	fmt.Printf("%v of type %T\n", y, y)

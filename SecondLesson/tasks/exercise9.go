@@ -1,4 +1,4 @@
-package main
+package exerc
 
 import "fmt"
 
@@ -14,7 +14,7 @@ const (
 	EB
 )
 
-func main() {
+func Ex9() {
 	fmt.Printf("%d \t\t\t %b\n", KB, KB)
 	fmt.Printf("%d \t\t %b\n", MB, MB)
 	fmt.Printf("%d \t\t %b\n", GB, GB)

@@ -1,8 +1,8 @@
-package main
+package exerc
 
 import "fmt"
 
-func main() {
+func Ex12() {
 	x, y, z := 747, 911, 90210
 
 	fmt.Printf("%d \t\t %b \t\t %#X\n", x, x, x)
