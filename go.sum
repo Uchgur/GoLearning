@@ -1,6 +1,6 @@
 github.com/Uchgur/dog v0.0.0-20240216150807-e5f4d4cb5a47 h1:XXgtyxkqfexAS4VJgbgkLJElaxov5gvrECYcfximhT8=
 github.com/Uchgur/dog v0.0.0-20240216150807-e5f4d4cb5a47/go.mod h1:yxHD0w6UIxUt6GbHe+zhfJnDLu0EecXoyRgtTdrjEdA=
-github.com/Uchgur/puppy v0.0.0-20240216141131-ae22c71f5489 h1:7nznoLOcakCMx+J/qcELAgkeDGwlW7ElKobvzGPjMA4=
-github.com/Uchgur/puppy v0.0.0-20240216141131-ae22c71f5489/go.mod h1:aDXeuionMsVz1O/uNf2pDve7m3CCdPTeijS+lJKSFNg=
 github.com/Uchgur/puppy v0.0.0-20240216152420-f980ffe15753 h1:jxNA4mMoCjEgX314L7kc9y+B50VUPXSm3gi3FbyrOuY=
 github.com/Uchgur/puppy v0.0.0-20240216152420-f980ffe15753/go.mod h1:H/3Q3+VfjLKeMe9VepqQ81I63QxDDDGoTWJqrJRJ+5E=
+github.com/Uchgur/puppy v1.3.0 h1:7d+nMpvkTMBwNhdqCOyp4Y65RqjYth/WW7OehpINkpA=
+github.com/Uchgur/puppy v1.3.0/go.mod h1:pBCzZbNiC8Uq94LB+iBc1Iv8FN19tdLoeTl0J/2MktU=
